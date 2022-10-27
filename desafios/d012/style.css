@@ -1,0 +1,15 @@
+@charset "UTF-8";
+
+/* * {
+    padding: 0px;
+    margin: 0px;
+} */
+
+body {
+    width: 520px;
+}
+
+img {
+    width: 520px;
+    margin-left: -100px;
+}
